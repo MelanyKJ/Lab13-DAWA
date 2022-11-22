@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { HomeView, BooksView } from "../pages";
+import '../App.css'
 
 const Router = () => {
   return (
